@@ -1,0 +1,29 @@
+{
+  "ownerId": "793960686261764145",
+  "ownerTag": "Poussin 🐥#1234",
+
+  "token": "ODgxOTE4NTQzNjQ4NjU3NDM4.YSz0pg.eEPM7Bt0R1_8gyko_mfIDqJ3L10",
+  "BotID": "881918543648657438",
+  "version": "Belzebut v.3",
+  "NomBot": "Belzebut",
+  "footer": "Devil protect",
+
+  "Topgg": "Cle api pour https://top.gg",
+  "BOATS": "Cle api pour https://discord.boats",
+  "VoidBots": "Cle api pour https://voidbots.net",
+  "SpaceBotList": "Cle api pour https://space-bot-list.xyz",
+  "InfinityBotList": "Cle api pour https://infinitybotlist.com",
+  "TrackerGG": "Cle api pour https://tracker.gg",
+
+  "ANTI_INSULTE" : ["putin", "fdp", "enculer", "fils de pute", "salope", "ntm", "nique ta mere", "connard", "batard", "sale noir", "baise ta mere", "mange tes morts", "ta gueule", "bâtard", "nique ta mère"],
+
+  "NomServeur": "Devil Protect",
+  "Support": "https://discord.gg/Pu29UjgnVB",
+  "bugReportChannelId": "881919163461943426",
+  "modlogChannelId": "881919209486049280",
+  "ticketChannelId": "881919220529627137",
+  "apiKeys": {
+    "catApi": "44d2e7c1-e82b-4fba-bec2-e6b07affb71f",
+    "googleApi": "AIzaSyCk09BwA1RxwuvEgKkTWqveGqyPfuCMqUI"
+  }
+}
